@@ -1,6 +1,6 @@
 name = "lindsaywright-design-static"
 compatibility_date = "2025-07-17"
+main = "./_worker.js"
 
-[site]
+[assets]
 bucket = "./"
-
