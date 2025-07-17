@@ -1,5 +1,5 @@
 name = "lindsaywright-design-static"
 compatibility_date = "2025-07-17"
 
-[build]
-upload = { format = "directory", dir = "./" }
+[assets]
+directory = "./"
