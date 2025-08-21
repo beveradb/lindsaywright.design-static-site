@@ -3,8 +3,8 @@
 	font-style: normal;
 	font-weight: bold;
 	font-display: auto;
-	src: url('/wp-content/uploads/2025/07/Gilbert-Bold.woff') format('woff'),
-		url('/wp-content/uploads/2025/07/Gilbert-Bold.ttf') format('truetype');
+	src: url('https://wp.lindsaywright.design/wp-content/uploads/2025/07/Gilbert-Bold.woff') format('woff'),
+		url('https://wp.lindsaywright.design/wp-content/uploads/2025/07/Gilbert-Bold.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
 /* Start Custom Fonts CSS */@font-face {
@@ -12,7 +12,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('/wp-content/uploads/2025/07/Neue-Kabel-Medium.woff') format('woff'),
-		url('/wp-content/uploads/2025/07/Neue-Kabel-Medium.ttf') format('truetype');
+	src: url('https://wp.lindsaywright.design/wp-content/uploads/2025/07/Neue-Kabel-Medium.woff') format('woff'),
+		url('https://wp.lindsaywright.design/wp-content/uploads/2025/07/Neue-Kabel-Medium.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
